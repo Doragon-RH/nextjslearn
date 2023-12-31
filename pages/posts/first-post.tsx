@@ -3,9 +3,11 @@ import Head from 'next/head';
 import Script from 'next/script';
 import Layout from '../../components/layout';
 
+
+/*  引数があるときはこの形 */
 export default function FirstPost() {
     return (
-        <Layout> {/*  引数があるときはこの形 */}
+        <Layout> 
             <Head>
                 <title>First Post</title> {/*  タブの表示変更 */}
             </Head>
