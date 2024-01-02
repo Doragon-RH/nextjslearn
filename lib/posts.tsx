@@ -1,7 +1,7 @@
 import fs from 'fs';
 import path from 'path';
 import matter from 'gray-matter';
-
+//ホームページ作成には必要ない
 const postsDirectory = path.join(process.cwd(), 'posts');
 
 export function getSortedPostsData() {
