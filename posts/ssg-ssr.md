@@ -1,5 +1,8 @@
 ---
 title: 'When to Use Static Generation v.s. Server-side Rendering'
+I learned React and Next.js.
+I'll use these technology and MUI to make a beautiful homepage!
+
 date: '2024-01-01'
 ---
 
